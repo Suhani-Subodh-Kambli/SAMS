@@ -1,0 +1,10 @@
+sams-backend/target/
+sams-frontend/node_modules/
+sams-frontend/dist/
+.env
+*.log
+.idea/
+.vscode/
+*.class
+*.py
+__pycache__/
